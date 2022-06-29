@@ -1,0 +1,32 @@
+@font-face {
+    font-family: 'Graphik';
+    src: url(../fonts/Medium.woff2);
+}
+
+@font-face {
+    font-family: 'Graphik';
+    src: url(../fonts/Bold.woff2);
+    font-weight: 700;
+}
+
+@font-face {
+    font-family: 'Graphik';
+    src: url(../fonts/MediumItalic.woff2);
+}
+
+@font-face {
+    font-family: 'Graphik';
+    src: url(../fonts/Regular.woff2);
+    font-weight: 400;
+}
+
+@font-face {
+    font-family: 'Graphik';
+    src: url(../fonts/Semibold.woff2);
+    font-weight: 600;
+}
+
+@font-face {
+    font-family: 'SignPainter';
+    src: url(../fonts/signpainter_housescript.woff2);
+}
