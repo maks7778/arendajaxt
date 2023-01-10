@@ -3,7 +3,7 @@ $(document).ready(function () {
         arrows: true,
         dots: true,
         adaptiveHeight: true,
-        slidesToShow: 3,
+        slidesToShow: 4,
         // slidesToScroll:, страницы
         speed: 500,
         easing: 'linear',
